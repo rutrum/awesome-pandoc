@@ -20,6 +20,10 @@ A list of resources around pandoc.
 
 * [pandoc-letter](https://github.com/aaronwolen/pandoc-letter) - Pandoc template for writing letters in markdown.
 
+## Command Line Utilities
+
+* [panrun](https://github.com/mb21/panrun) - script that looks at the YAML metadata in a markdown file and runs pandoc for you.
+
 ## Pandoc Filter Development
 
 * [panflute](https://github.com/sergiocorreia/panflute) - a Python package that makes creating Pandoc filters fun.
@@ -29,3 +33,7 @@ A list of resources around pandoc.
 ### Ruby
 
 * [pandoc-ruby](https://github.com/xwmx/pandoc-ruby) - Ruby wrapper for Pandoc.
+
+## Tutorials/Articles
+
+* [Making presentations with Pandoc beamer](https://github.com/alexeygumirov/pandoc-beamer-how-to) - How to make PDF slides using beamer format output from pandoc.
